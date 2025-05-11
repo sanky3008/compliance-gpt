@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-openai
+PyMuPDF
+sentence-transformers
+chromadb
+python-dotenv
+streamlit # For the web UI
+# faiss-cpu # Uncomment if you decide to use FAISS 

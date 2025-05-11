@@ -1,0 +1,23 @@
+ __pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector Store Directory
+vector_store_db/
+
+# Virtual environment
+venv/
+*.venv/
+ENV/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Original Documents
+Documents/
