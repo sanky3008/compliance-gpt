@@ -8,5 +8,6 @@ PyMuPDF
 sentence-transformers
 chromadb
 python-dotenv
+protobuf==3.20.3 # Pinned for compatibility with opentelemetry/chromadb
 streamlit # For the web UI
 # faiss-cpu # Uncomment if you decide to use FAISS 
