@@ -1,3 +1,15 @@
+---
+title: Groww ComplianceGPT
+emoji: 📚 # You can choose another emoji if you like, e.g., 🔎 or 🤖
+colorFrom: indigo
+colorTo: green
+sdk: streamlit
+python_version: 3.12
+app_file: app.py
+pinned: false
+---
+
+
 # Groww ComplianceGPT
 
 ## Overview
